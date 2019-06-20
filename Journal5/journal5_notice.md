@@ -115,7 +115,9 @@ HABCDS 等の一般的な略称は専用の頁を作成し説明を行うので�
 下記の形式のいずれか。
 
 - Markdown
-  - [Github上の過去の論文の形式](<https://github.com/sergeant118/ShuzokuTouitsuJournal>)に従うのが望ましい
+  - [Github上の過去の論文の形式](<https://github.com/sergeant118/ShuzokuTouitsuJournal>)に従うのが望ましい  
+  上記リンク先の「Download ZIP」から各論文のMarkdownファイルをダウンロードできます。  
+  ![](DL.png)
     - タイトル：見出し1『#』
     - 著者名：見出し6『######』
     - 各章：見出し2『##』
