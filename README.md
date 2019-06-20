@@ -29,7 +29,7 @@
 
 ### 種族統一学会論文誌 Vol.3
 発行：2017年12月29日  
-PDF版DL：https://sergeant118.booth.pm/items/1158099
+[PDF版DL](https://sergeant118.booth.pm/items/1158099)
 
  - [シャドースチールでシャドースチール](./Journal3/3-01.md)
  - [シャドースチール大会におけるロズレイド統一の戦闘記録](./Journal3/3-02.md)
@@ -41,7 +41,7 @@ PDF版DL：https://sergeant118.booth.pm/items/1158099
 
 ### 種族統一学会論文誌 Vol.2
 発行：2016年8月13日  
-PDF版DL：https://sergeant118.booth.pm/items/1158092
+[PDF版DL](https://sergeant118.booth.pm/items/1158092)
 
  - [種族統一パにおける有効な戦略とは](./Journal2/2-01.md)
  - [アブソル統一総説](./Journal2/2-02.md)
@@ -52,7 +52,7 @@ PDF版DL：https://sergeant118.booth.pm/items/1158092
 
 ### 種族統一学会論文誌 Vol.1
 発行：2015年5月24日  
-PDF版DL：https://sergeant118.booth.pm/items/101328
+[PDF版DL](https://sergeant118.booth.pm/items/101328)
 
  - [できる！種族統一パの作り方](./Journal1/1-01.md)
  - [ポケモン統一におけるオシャレボールの考察](./Journal1/1-02.md)
