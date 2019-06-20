@@ -6,13 +6,17 @@
 ## 企画進行中
 
 ### 種族統一学会論文誌 Vol.5
-企画進行準備中…
+2020年夏コミに向けて企画進行準備中…
 
 
 ## 発行済み論文誌
 
 ### 種族統一学会論文誌 Vol.4
 発行：2018年12月30日
+
+**コミックマーケット96**  
+土曜日 南地区 "サ" ブロック 39a  
+**「みの研」** にて冊子版を頒布します。
 
 **2019年12月後半にWeb公開予定**
 
@@ -66,3 +70,13 @@
  - [ミノマダム統一における要注意ポケモンへの対策](./Journal1/1-10.md)
  - [クチート統一の型紹介と思い出話](./Journal1/1-11.md)
  - [種族統一パ大会における個体・技変更に関する考察](./Journal1/1-12.md)
+ 
+ ## 種族統一Slack
+ 種族統一論文を執筆する際の参加者への連絡用として使用しています。  
+ 連絡などは専用チャンネルを立てているので雑談なども可能です。  
+ 大会運営やその他の連絡用としての使用も可です。ご相談ください。
+ 
+ 参加は[こちら](https://join.slack.com/t/shuzokutouitsupoke/shared_invite/enQtNDg2MjI1NDgzMTEwLTNkMGRiMGJjYzdkYmIwZTAzNWQ3ODY1YzM5YjYzYmUwZDM2MDcxY2I5ZjExZTljN2JiOTdmNjc5MjhjZDg0MWE)から
+ 
+ ## 連絡先
+ Twitter：[@sergeant118](https://twitter.com/sergeant118) ぐんそー
