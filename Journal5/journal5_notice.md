@@ -178,7 +178,7 @@ Markdown以外は受け取り後、こちらでMarkdownに変換します。
 
 ## 謝礼（複数選択可）
 
-- 完成した見本誌（冊子・PDF）
+- 見本誌（冊子・PDF）
 - ワタシハミノマダムチョットワカル（2019夏予定）（冊子・PDF）
 - 種族統一学会論文誌Vol.4（冊子・PDF）
 - MINO Deck Recipes Vol.1（非ポケモン：MTG同人誌。冊子・PDF）
@@ -209,11 +209,8 @@ Markdown以外は受け取り後、こちらでMarkdownに変換します。
 
 Markdownで記述する上で助けになりそうなリンクを紹介します。
 
-**Typora**  
-https://typora.io/
+**[Typora](https://typora.io/)**  
 
-**MarkdownエディタにTyporaを超推ししたい件**  
-https://qiita.com/kenji_shinoda/items/97320dc3f40a4c98df35
+**[MarkdownエディタにTyporaを超推ししたい件](https://qiita.com/kenji_shinoda/items/97320dc3f40a4c98df35)**  
 
-**Qiita マークダウン記法 一覧表・チートシート**  
-https://qiita.com/kamorits/items/6f342da395ad57468ae3
+**[Qiita マークダウン記法 一覧表・チートシート](https://qiita.com/kamorits/items/6f342da395ad57468ae3)**  
