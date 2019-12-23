@@ -12,27 +12,22 @@
 
 ### 種族統一学会論文誌 Vol.4
 発行：2018年12月30日
+[PDF版DL](https://drive.google.com/open?id=1dLQFU4JQ-xDDRV_hBAXkkoL-9O1EyRnV)
 
-**コミックマーケット96**  
-土曜日 南地区 "サ" ブロック 39a  
-**「みの研」** にて冊子版を頒布します。
-
-**2019年12月後半にWeb公開予定**
-
- - 種族統一に必要なもの　～バトレボはなぜ流行った～
- - ウルトラスーパーハイパーチャレンジにおけるアブソル統一の戦績と考察
- - ウルトラネク論文　～ネクロズマ統一の挑戦～
- - 元祖、水地面タイプに立ちはだかった第７世代の種族統一パ達
- - ウルトラスーパーハイパーチャレンジ Let's Go! ジュカイン
- - 大会「ウルトラスーパーハイパーチャレンジ」におけるムウマ統一雑感
- - VS種族統一におけるチラチーノ統一の戦い方について
- - ジュカイン統一考察案
- - ロズレイド統一の基本的な運用思想について
- - 復刻版・種族統一概論
+ - [種族統一に必要なもの　～バトレボはなぜ流行った～](./Journal4/4-01.md)
+ - [ウルトラスーパーハイパーチャレンジにおけるアブソル統一の戦績と考察](./Journal4/4-02.md)
+ - [ウルトラネク論文　～ネクロズマ統一の挑戦～](./Journal4/4-03.md)
+ - [元祖、水地面タイプに立ちはだかった第７世代の種族統一パ達](./Journal4/4-04.md)
+ - [ウルトラスーパーハイパーチャレンジ Let's Go! ジュカイン](./Journal4/4-05.md)
+ - [大会「ウルトラスーパーハイパーチャレンジ」におけるムウマ統一雑感](./Journal4/4-06.md)
+ - [VS種族統一におけるチラチーノ統一の戦い方について](./Journal4/4-07.md)
+ - [ジュカイン統一考察案](./Journal4/4-08.md)
+ - [ロズレイド統一の基本的な運用思想について](./Journal4/4-09.md)
+ - [復刻版・種族統一概論](./Journal4/4-10.md)
 
 ### 種族統一学会論文誌 Vol.3
 発行：2017年12月29日  
-[PDF版DL](https://sergeant118.booth.pm/items/1158099)
+[PDF版DL](https://drive.google.com/open?id=1CbB1xrARe3j3FN9BokAcwSpBBil9s2mq)
 
  - [シャドースチールでシャドースチール](./Journal3/3-01.md)
  - [シャドースチール大会におけるロズレイド統一の戦闘記録](./Journal3/3-02.md)
@@ -44,7 +39,7 @@
 
 ### 種族統一学会論文誌 Vol.2
 発行：2016年8月13日  
-[PDF版DL](https://sergeant118.booth.pm/items/1158092)
+[PDF版DL](https://drive.google.com/open?id=1YImulZOsp2yg9aXZxH4VisnYdJpJ3Pfb)
 
  - [種族統一パにおける有効な戦略とは](./Journal2/2-01.md)
  - [アブソル統一総説](./Journal2/2-02.md)
@@ -55,7 +50,7 @@
 
 ### 種族統一学会論文誌 Vol.1
 発行：2015年5月24日  
-[PDF版DL](https://sergeant118.booth.pm/items/101328)
+[PDF版DL](https://drive.google.com/open?id=1nTeiexwNg3XYcGKOwW4NuOZGUjdJa3N1)
 
  - [できる！種族統一パの作り方](./Journal1/1-01.md)
  - [ポケモン統一におけるオシャレボールの考察](./Journal1/1-02.md)
@@ -69,13 +64,13 @@
  - [ミノマダム統一における要注意ポケモンへの対策](./Journal1/1-10.md)
  - [クチート統一の型紹介と思い出話](./Journal1/1-11.md)
  - [種族統一パ大会における個体・技変更に関する考察](./Journal1/1-12.md)
- 
+
 ## 種族統一Slack
 種族統一論文を執筆する際の参加者への連絡用として使用しています。  
 連絡などは専用チャンネルを立てているので雑談なども可能です。  
 大会運営やその他の連絡用としての使用も可です。ご相談ください。
- 
+
 参加は[こちら](https://join.slack.com/t/shuzokutouitsupoke/shared_invite/enQtNDg2MjI1NDgzMTEwLTNkMGRiMGJjYzdkYmIwZTAzNWQ3ODY1YzM5YjYzYmUwZDM2MDcxY2I5ZjExZTljN2JiOTdmNjc5MjhjZDg0MWE)から
- 
+
 ## 連絡先
 Twitter：[@sergeant118](https://twitter.com/sergeant118) ぐんそー
